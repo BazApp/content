@@ -1,0 +1,12 @@
+{
+   "name": "Yandex Browser",
+   "author": "Yandex",
+   "description": "Fast and secure web browser.",
+   "tags": ["browser", "web", "security"],
+   "age_rating": "12+",
+   "stores": {
+      "google_play": "https://play.google.com/store/apps/details?id=com.yandex.browser",
+      "app_store": "https://apps.apple.com/ru/app/yandex-browser/id1019359271"
+   },
+   "icon": "icon.png"
+}
